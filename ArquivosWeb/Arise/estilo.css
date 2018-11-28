@@ -1,0 +1,92 @@
+#site{
+  width:1340px;
+  height:510px;
+  margin-top:0;
+  margin-left:auto;
+  margin-bottom:0;
+  margin-right:auto;
+}
+
+#header{
+  width:1340px;
+  height:100px;
+  background-color:gray;
+  }
+  #conteudo{
+  width:1340px;
+  height:400px;
+  background-color:gray;  
+}
+#footer{
+  width:1340px;
+  height:100px;
+  background-color:gray;
+}
+
+#esquerda{
+    width: 300px;
+    height: 400px;
+    background: black;
+    float: left;
+    border-style: solid;
+    background-color: gray;
+}
+
+#formulario{
+  width: 600px;
+  height: 394px;
+  margin: 0 auto;
+  background:gray;
+  text-align: center;
+  border-style: solid;
+  border-color: #00D8FF;
+  border-radius: 30px;
+}
+#teste1{
+  margin-top:60px;
+
+}
+
+#teste2{
+  margin-top: 10px;
+  size: 50px;
+
+}
+#textoFor{
+  text-align: center;
+  margin-left: 30px;
+  font-size: 40px;
+  color: black;
+  font-family: arial;
+
+}
+
+label {
+    display: inline-block;
+    width: 60px;
+    height: 10px;
+    text-align: right;
+}
+
+#opcoes{
+  width: 1340px;
+  height: 100px;
+  margin: 0 auto;
+  background:#FFFF;
+  text-align: center;
+  border-style: solid;
+  border-color: #00D8FF;
+}
+#menu{
+  margin-right: 1000px;
+}
+
+#entrar{
+  size: 20px;
+  background-color: teal;
+}
+
+a:link{
+  text-decoration: none;
+}
+
