@@ -11,3 +11,14 @@ form {
 input {
 	margin: 10px;
 }
+label {
+    display: inline-block;
+    width: 90px;
+    text-align: right;
+}
+#butao{
+	margin-left: 250px;
+}
+body{
+	background: #00D4D6;
+}
