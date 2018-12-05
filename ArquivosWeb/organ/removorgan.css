@@ -1,0 +1,15 @@
+#organremov{
+	width: 720px;
+	height:480px;
+	margin-left: 1px;
+	right: auto;
+	margin-right:solid;
+	padding: 20px;
+	border: 5px solid #00f;
+}
+form{
+	fill:10px;
+}
+input{
+	margin: 10px;
+}
